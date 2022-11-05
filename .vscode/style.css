@@ -1,0 +1,26 @@
+body {
+	height: 90vh;
+    background-color: #dddfe6;
+}
+.container {
+    max-width: 700px;
+}
+.textoFiltrado {
+	
+    display:none !important;
+    /* alternativa a display none */
+    /* visibility: hidden; */
+}
+#buscar {
+	width: 35%;
+}
+
+.fa-minus-circle {
+	  padding-top: 5px;
+      color: #F71E35;
+	  font-size:20px;
+}
+.fa-plus {
+	color: bisque;
+	font-size: large;
+}
